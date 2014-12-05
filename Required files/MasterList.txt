@@ -1,0 +1,1 @@
+link~This is a test shortcut:{Enter}{Enter}XXXX{Enter}{Enter}Formatting works:{Enter}{Enter}So do *urls=http://google.com*!
